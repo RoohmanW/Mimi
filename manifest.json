@@ -1,0 +1,17 @@
+{
+    "name": "Mimi",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description":"Destress with Mimi",
+    "browser_action":{
+        "default_popup": "mimi.html",
+        "default_icon":"cat.png"
+
+    },
+    "icons":{
+        "128": "cat.png"
+    },
+    "permissions":["activate tab"]
+
+
+  }
